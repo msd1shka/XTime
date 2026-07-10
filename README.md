@@ -7,7 +7,7 @@ Peer-to-peer messenger. No server. No accounts. Nothing to trust but math.
 
 ⚠️ **Alpha software, not audited yet.** Read the [Threat Model](./THREAT_MODEL.md) before you rely on this for anything that actually matters.
 
-[Threat Model](./THREAT_MODEL.md) · [License](./LICENSE) · [Contributing](./CONTRIBUTING.md) · [Donate](#)
+[Threat Model](./THREAT_MODEL.md) · [License](./LICENSE) · [Contributing](./CONTRIBUTING.md) · [Donate](#./Donate.md)
 
 ---
 
