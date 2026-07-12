@@ -24,16 +24,16 @@ SOFTWARE.
 
 Additional Disclaimer (Privacy & Anonymity Software)
 
-XTime is provided for lawful, privacy-preserving communication purposes only.
+Delta-Time is provided for lawful, privacy-preserving communication purposes only.
 The author(s) make no guarantees regarding the absolute anonymity, security,
 or availability of this software, the Tor network, or any hidden services
 created through it. Software of this kind can never guarantee perfect
 anonymity or security; the user is solely responsible for evaluating whether
-XTime is fit for their specific threat model before relying on it.
+Delta-Time is fit for their specific threat model before relying on it.
 
 0. ALPHA SOFTWARE — READ BEFORE USE
 
-   XTime is currently in an ALPHA stage of development. This means:
+   Delta-Time is currently in an ALPHA stage of development. This means:
 
    a) The software has NOT undergone a professional, independent security
       audit. Cryptographic implementations, key handling, and network
@@ -43,7 +43,7 @@ XTime is fit for their specific threat model before relying on it.
       between versions.
    c) Data loss, message loss, key loss, or temporary/permanent loss of
       connectivity or anonymity guarantees may occur without warning.
-   d) XTime is NOT recommended for use in situations where a failure of
+   d) Delta-Time is NOT recommended for use in situations where a failure of
       security or anonymity could result in physical harm, legal jeopardy,
       or other serious consequences to the user or any third party. Users
       operating under a high-risk threat model should not rely on this
@@ -54,7 +54,7 @@ XTime is fit for their specific threat model before relying on it.
 By downloading, installing, or using this software, you acknowledge and agree
 that:
 
-1. You use XTime entirely at your own risk and discretion, with full
+1. You use Delta-Time entirely at your own risk and discretion, with full
    awareness of its alpha status described above.
 
 2. You are solely responsible for your use of the software, including
